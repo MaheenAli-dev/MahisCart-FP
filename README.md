@@ -7,7 +7,7 @@ Usage Installation: Clone the repository and install dependencies for both the c
 
 Starting the Application: Start the server and client to run the application.
 
-Accessing the App: Open the application in your web browser at https://wild-red-cockroach-fez.cyclic.cloud/.
+Accessing the App: Open the application in your web browser at https://brave-bedclothes-crow.cyclic.app/.
 
 API The Express API provides endpoints for various operations including product management, user authentication, order placement, and more. For more details, refer to the API documentation.
 
